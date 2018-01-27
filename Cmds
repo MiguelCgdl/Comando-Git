@@ -1,0 +1,14 @@
+Con estos comandos podras hacer trabajo colaborativo 
+
+
+git status ----------Verifica estado de cambios
+
+git add .  ------------Añade los archivos con cambios al commit
+
+git commit -m "Cambios realizados en xn carpeta etc." -----------sube cambios realizados a cualquier cambio.
+
+git push  ---------Sube los cambios a Github 
+
+git pull -----------Baja nueva version
+
+git checkout "id de version"---------- regresa version anterior.
